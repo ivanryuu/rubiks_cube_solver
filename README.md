@@ -1,6 +1,7 @@
-# rubiks_cube_solver
+# Rubiks Cube Solver
 ## TODO list
-* Remove unnecesary files
+* :white_check_mark: Remove unnecesary files
+* Replace Move.class with with a better solution
 * Add option for restricted moves
 * Optimize cross algorithm
 * Pack into library
